@@ -33,7 +33,7 @@ function HeroSection() {
        
         </div>
         <div className='col-span-5 place-self-center mt-4 lg:mt-0'>
-           <div className='rounded-full bg-[#11071F] w-[250px] h-[100px] lg:w-[300px] lg:h-[400px] relative'>
+           <div className='rounded-md bg-[#11071F] w-[250px] h-[100px] lg:w-[300px] lg:h-[400px] relative'>
              <Image
              src="/image/hero1.jpg"
              alt="hero image"
